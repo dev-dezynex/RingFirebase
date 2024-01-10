@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369948223516",
+    "project_id": "ring-firebase-683fc",
+    "storage_bucket": "ring-firebase-683fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369948223516:android:a65d2f4305ad83d9b117d9",
+        "android_client_info": {
+          "package_name": "com.example.ringfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4sRuk7GA2ufJLTJkkYiuCwlKEejXZZ_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
