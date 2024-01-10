@@ -37,6 +37,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun submitTextToFirebase(){
         val text = editText.text.toString().trim()
+        database.child("message").removeValue()
         if(text.isNotEmpty()){
             database.child("message").push().setValue(text)
         }
